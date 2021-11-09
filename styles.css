@@ -1,0 +1,275 @@
+body{
+font-family: 'Source Sans Pro', sans-serif;
+text-align: center;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+   line-height: 0.5;
+   font-size: 3.5rem;
+
+}
+.new{
+  padding-top: 4%;
+}
+.kk{
+  text-align: left;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+   line-height: 1.5;
+   font-size: 3rem;
+
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+padding-top: 8.5rem;
+
+}
+.pp1{
+
+  text-align: left;
+  line-height: 5.5rem;
+}
+.pp2{
+  text-align: left;
+  line-height: 1.5rem;
+  font-size: 1.3rem;
+}
+.pp3{
+  color: #fff;
+  margin-top: 0.3%;
+}
+.xl{
+margin-top: 50px;
+text-align: left;
+}
+p{
+  color: #8f8f8f;
+}
+.container-fluid{
+  padding: 7% 15%;
+}
+/* Sections */
+.colored-section{
+    background-color: #ff4c68;
+    color:#fff;
+}
+.white-section{
+    background-color: #fff;
+    color:black;
+}
+/* Title section */
+
+#title .container-fluid{
+  padding: 3% 15% 13%;
+  color: #fff;
+  text-align: left;
+}
+
+/* navigation-bar */
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.opbutton{
+  margin:5% 3% 5% 0%;
+}
+
+.title-image{
+  width: 60%;
+
+}
+.itsme{
+  width: 100%;
+  margin-top: 30px;
+
+}
+
+.feature-box{
+padding: 4.5%;
+}
+
+.icon{
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+/* section2 */
+#testimonials{
+ background-color:#FF9292;
+ color: #fff;
+}
+
+.test-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+
+background-color: #E26A2C;
+}
+.press-key{
+  width: 15%;
+  margin:20px 20px 50px;
+}
+
+/* pricing section */
+#pricing{
+  padding: 100px;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+/* title image */
+.title-image{
+  width: 480px;
+  height: 410px;
+  margin-left: 50px;
+}
+/* media-query */
+@media (max-width:975px)
+{
+  #title{
+    text-align: left;
+
+  }
+  .title-image{
+    transform: rotate(0);
+  }
+}
+/* last part */
+#cta{
+  color: #fff;
+  background-color: #FF9292;
+}
+.okok{
+  line-height:1.5;
+  font-size: 3.5rem;
+}
+.hola{
+    margin:5% 3% 5% 0%;
+}
+/* footer */
+#footer{
+
+}
+.con{
+  margin:20px 20px;
+  color:black;
+}
+.con:hover{
+  color: #113CFC;
+
+}
+.not{
+  margin-top: 0px;
+  padding-top: 0%;
+}
+.prj{
+  font-size: 1rem;
+  line-height: 2.1rem;
+}
+.kon{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color:black;
+}
+.last{
+  text-align: left;
+  padding-top: 2%;
+}
+.border{
+  width:100px;
+  height: 10px;
+  background-color: #34495e;
+  margin: 40px auto;
+}
+
+.contact-form{
+  max-width: 600px;
+  margin: auto;
+  padding: 0 10px;
+  overflow: hidden;
+
+}
+
+.meme{
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 16px 0;
+  border: 0;
+  background: #111;
+  padding: 20px 40px;
+  outline: none;
+  color: #ddd;
+  transition: 0.5s;
+}
+.meme:focus{
+  box-shadow: 0 0 10px 4px #34495e;
+}
+textarea.meme{
+  resize: none;
+  height: 120px;
+}
+.meme1{
+  float: right;
+  border: 0;
+  background: #34495e;
+  color: #fff;
+  padding: 12px 50px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.meme1:hover{
+  background: #2980b9;
+}
+.contact{
+  margin-left: 20%;
+}
+.neww{
+  color:#fff;
+
+}
+.neww1{
+  color: #fff;
+  text-align: left;
+}
+.kon:hover{
+  color: #113CFC;
+}
+.nope:hover{
+  color:#FF9292;
+}
+.neww2{
+  color: #fff;
+  text-align: left;
+}
+.lol{
+  color: #34495e;
+}
+.lol:hover{
+  color: #113CFC;
+}
